@@ -72,8 +72,8 @@ En Olası Skor + Kazanma Olasılıkları
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/KULLANICIN/derbi-analiz.git
-cd derbi-analiz
+git clone https://github.com/Yusufhan30/Super-Lig-Derbi-Prediction.git
+cd Super-Lig-Derbi-Prediction/derbi_analiz
 
 # Bağımlılıkları yükle
 pip install -r requirements.txt
@@ -127,7 +127,3 @@ spor analitiğine uygulanmasını göstermeyi amaçlamaktadır.
 
 ---
 
-## 📬 İletişim
-
-Projeyi beğendiysen ⭐ vermeyi unutma!
-Sorular ve öneriler için [LinkedIn](https://linkedin.com/in/KULLANICIN) üzerinden ulaşabilirsin.
