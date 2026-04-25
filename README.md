@@ -11,12 +11,11 @@
 
 ## 📸 Ekran Görüntüleri
 
-![Simülasyon ve Skor Tahmini](screenshoots/Screenshot%202026-04-25%20233505.png)
+![Simülasyon ve Skor Tahmini](derbi_analiz/screenshoots/Screenshot%202026-04-25%20233505.png)
 
-![Heatmap ve Radar](screenshoots/Screenshot%202026-04-25%20233516.png)
+![Heatmap ve Radar](derbi_analiz/screenshoots/Screenshot%202026-04-25%20233516.png)
 
-![İstatistik ve xG](screenshoots/Screenshot%202026-04-25%20233526.png)
-
+![İstatistik ve xG](derbi_analiz/screenshoots/Screenshot%202026-04-25%20233526.png)
 
 ## 🎯 Proje Hakkında
 
