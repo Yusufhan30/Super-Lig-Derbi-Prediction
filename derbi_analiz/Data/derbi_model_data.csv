@@ -1,0 +1,15 @@
+istatistik,aciklama,galatasaray,fenerbahce
+mac_basi_gol,Maç başına atılan ortalama gol,2.3,2.3
+mac_basi_yenilen_gol,Maç başına yenilen ortalama gol,0.8,1.0
+mac_basi_buyuk_sans,Maç başına yaratılan büyük fırsat,3.6,3.1
+mac_basi_kacirilam_buyuk_sans,Maç başına kaçırılan büyük fırsat,2.0,1.6
+mac_basi_isabetli_sut,Maç başına isabetli şut,5.6,6.2
+mac_basi_toplam_sut,Maç başına toplam şut,16.3,17.2
+topla_oynama_yuzde,Top kontrolü yüzdesi,62.0,59.4
+isabetli_pas_yuzde,İsabetli pas yüzdesi,87.3,85.8
+rakip_yari_sahada_isabetli_yuzde,Rakip yarı sahada pas isabeti,81.6,80.6
+mac_basi_topu_geri_kazanma,Maç başına top geri kazanma,47.1,46.7
+mac_basi_tehlike_engelleme,Maç başına tehlike engelleme,19.1,16.2
+gol_yemedi,Gol yemeden bitirilen maç sayısı,11,10
+gole_neden_olan_hata,Gole neden olan hata sayısı,4,4
+penalti_donusum_yuzde,Penaltı dönüşüm yüzdesi,100.0,75.0
